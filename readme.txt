@@ -1,5 +1,12 @@
 Matlab code for Ellinwood et al. human atrial model with updated IKur formulation.
 
+Ellinwood et al. integrated a Markov model of the IKur current derived from Zhou et al. (PLoS ONE
+2012; e42295), modified to fit voltage-clamp data from human atrial myocytes, into the Morotti et al.
+human atrial model (J Mol Cell Cardiol. 2016 Jul; 96:63-71, available for download on this webpage).
+The IKur current model was extended to reproduce dose-dependent drug binding to various conformational
+states of the channel with variable affinity and binding kinetics.
+
+
 _____________________________________________________________________________________________________
 Contents:
 
