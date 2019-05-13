@@ -1,4 +1,4 @@
-Matlab code for Ellinwood et al. human atrial model.
+Matlab code for Ellinwood et al. human atrial model with updated IKur formulation.
 
 _____________________________________________________________________________________________________
 Contents:
@@ -23,6 +23,7 @@ Ellinwood N, Dobrev D, Morotti S, Grandi E. (2017).
 Revealing kinetics and state-dependent binding properties of IKur-targeting drugs that maximize atrial
 fibrillation selectivity.
 Chaos 27, 093918 (2017). doi: https://doi.org/10.1063/1.5000226
+[See Erratum, Chaos 27, 109902 (2017). doi: https://doi.org/10.1063/1.5007051]
 
 Ellinwood N, Dobrev D, Morotti S, Grandi E. (2017).
 In silico assessment of efficacy and safety of IKur inhibitors in chronic atrial fibrillation: role of 
@@ -31,10 +32,10 @@ Front. Pharmacol. 2017; 8: 799. doi: https://doi.org/10.3389/fphar.2017.00799
 
 Morotti S, McCulloch AD, Bers DM, Edwards AG, Grandi E. (2015).
 Atrial-selective targeting of arrhythmogenic phase-3 earlyafterdepolarizations in human myocytes.
-J Mol Cell Cardiol. 2016 Jul;96:63-71. doi: 10.1016/j.yjmcc.2015.07.030
+J Mol Cell Cardiol. 2016 Jul;96:63-71. doi: https://doi.org/10.1016/j.yjmcc.2015.07.030
 
 Grandi E, Pandit SV, Voigt N, Workman AJ, Dobrev D, Jalife J, Bers DM. (2011).
 Human Atrial Action Potential and Ca2+ Model: Sinus Rhythm and Chronic Atrial Fibrillation.
-Circ Res. 2011 Oct 14;109(9):1055-66. Epub 2011 Sep 15.
+Circ Res. 2011 Oct 14;109(9):1055-66. doi: https://doi.org/10.1161/CIRCRESAHA.111.253955
 
 Please cite the above papers when using this model.
