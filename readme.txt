@@ -22,12 +22,12 @@ References:
 Ellinwood N, Dobrev D, Morotti S, Grandi E. (2017).
 Revealing kinetics and state-dependent binding properties of IKur-targeting drugs that maximize atrial
 fibrillation selectivity.
-Chaos 27, 093918. doi: http://dx.doi.org/10.1063/1.5000226
+Chaos 27, 093918 (2017). doi: https://doi.org/10.1063/1.5000226
 
 Ellinwood N, Dobrev D, Morotti S, Grandi E. (2017).
 In silico assessment of efficacy and safety of IKur inhibitors in chronic atrial fibrillation: role of 
 kinetics and state-dependence of drug binding
-Front. Pharmacol.
+Front. Pharmacol. 2017; 8: 799. doi: https://doi.org/10.3389/fphar.2017.00799
 
 Morotti S, McCulloch AD, Bers DM, Edwards AG, Grandi E. (2015).
 Atrial-selective targeting of arrhythmogenic phase-3 earlyafterdepolarizations in human myocytes.
